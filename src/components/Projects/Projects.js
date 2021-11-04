@@ -6,7 +6,7 @@ import Particle from "../Particle";
 import leaf from "../../Assets/cap3.png";
 import emotion from "../../Assets/Capture.PNG";
 import editor from "../../Assets/Sans titre.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import chatify from "../../Assets/Capture1.PNG";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
@@ -28,7 +28,7 @@ function Projects() {
               isBlog={false}
               title="STT Website "
               description="Design and development of a web application for services and products management within the STT.  This website aims to organize STT services and facilitate their communication with customers ."
-              link="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              link="#"
             />
           </Col>
 
@@ -38,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="Festo Application"
               description=" Design and development of a Web Application for Indrustrial Supervision to the control and the supervision of an industrial process  Festo via a web server. "
-              link="https://github.com/soumyajit4419/Editor.io"
+              link="#"
             />
           </Col>
 
@@ -48,20 +48,21 @@ function Projects() {
               isBlog={false}
               title="Dashboard  Reservé "
               description="Analyze, design and development of an Admin dashboard for maintaining and controlling a mobile application within T&M Consulting."
-              link="https://github.com/soumyajit4419/Plant_AI"
+              link="#"
             />
           </Col>
 
           
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description=""
-              link="https://github.com/soumyajit4419/Chatify"
+              title="COSMETICA"
+              description="Developpement of an application e-commerce to commercialize  products and to facilitate the communication with clients  "
+              link="#"
             />
           </Col>
+           {/*
 
           <Col md={4} className="project-card">
             <ProjectCard
