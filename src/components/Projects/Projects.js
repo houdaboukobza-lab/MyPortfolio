@@ -42,7 +42,7 @@ function Projects() {
               description=" Design and development of a Web Application for Indrustrial Supervision to the control and the supervision of an industrial process  Festo via a web server. "
               link="https://github.com/houdaboukobza-lab/AppFestoAngular-SpringBoot"
             />
-          </Col>
+          </Col> 
 
           <Col md={4} className="project-card">
             <ProjectCard
