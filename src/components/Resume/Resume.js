@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import Resumecontent from "./ResumeContent";
 import axios from "axios";
-import pdf from "../../Assets/Cv_Houda_Boukhobza_English_French.pdf";
+import pdf from "../../Assets/Cv _HoudaBoukhobza_UPDATED.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 
 function Resume() {

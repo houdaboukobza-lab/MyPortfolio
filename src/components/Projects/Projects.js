@@ -30,7 +30,7 @@ function Projects() {
               isBlog={false}
               title="STT Website "
               description="Design and development of a web application for services and products management within the STT.  This website aims to organize STT services and facilitate their communication with customers ."
-              link="#"
+              link="https://github.com/houdaboukobza-lab/Project1WebsiteSTT"
             />
           </Col>
 
@@ -40,7 +40,7 @@ function Projects() {
               isBlog={false}
               title="Festo Application"
               description=" Design and development of a Web Application for Indrustrial Supervision to the control and the supervision of an industrial process  Festo via a web server. "
-              link="#"
+              link="https://github.com/houdaboukobza-lab/AppFestoAngular-SpringBoot"
             />
           </Col>
 
@@ -50,7 +50,7 @@ function Projects() {
               isBlog={false}
               title="Dashboard  Reservé "
               description="Analyze, design and development of an Admin dashboard for maintaining and controlling a mobile application within T&M Consulting."
-              link="#"
+              link="https://github.com/houdaboukobza-lab/Dashbord-App-R-serv-React-Firebase"
             />
           </Col>
 
